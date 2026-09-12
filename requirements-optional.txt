@@ -1,0 +1,4 @@
+-r requirements.txt
+torch>=2.2,<3
+shap>=0.45,<0.50
+lime==0.2.0.1
